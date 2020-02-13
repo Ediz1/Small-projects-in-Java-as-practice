@@ -26,10 +26,10 @@ Zum starten vom Programm muss man 3 Argumente eingeben beim Aufruf von der Class
 Beispiel:\
 Erstes Argument: C:\Users\Ediz\Desktop\UnverschlüsselteDatei.txt\
 Zweites Argument: C:\Users\Ediz\Desktop\Zieldatei.txt\
-Drittes Argument: 3\
+Drittes Argument: 3
 
 Text der in der Unverschlüsselten Datei steht: Dieser Text ist unverschlüsselt 1!1!111!1!!einself!!11\
-Text der in der Zieldatei steht: Glhvhu Whaw lvw xqyhuvfkoüvvhow 1!1!111!1!!hlqvhoi!!11\
+Text der in der Zieldatei steht: Glhvhu Whaw lvw xqyhuvfkoüvvhow 1!1!111!1!!hlqvhoi!!11
 
 CMD als Beispiel wie die Ausführung aussieht.\
 ![alt text](https://i.imgur.com/iZJeCsC.png)
